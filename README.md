@@ -1,3 +1,5 @@
+# Training dogs to sit, stand, and lay down through computer vision
+
 ## Dataset Access
 This dataset is hosted on HuggingFace: https://huggingface.co/datasets/stockeh/dog-pose-cv
 
